@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 #My Health Clinic
 <<<<<<< HEAD
+=======
+#My Health Clinic Overview
+>>>>>>> parent of 00b4706 (Update readme.md)
 ## Overview
 =======
 ## Overview app
