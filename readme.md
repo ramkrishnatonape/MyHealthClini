@@ -1,13 +1,5 @@
-<<<<<<< HEAD
 #My Health Clinic
-<<<<<<< HEAD
-=======
-#My Health Clinic Overview
->>>>>>> parent of 00b4706 (Update readme.md)
 ## Overview
-=======
-## Overview app
->>>>>>> 2c6fb13632e28a65033b94b45441b35134f0b030
 My Health Clinic, a sample application built for demo and training purposes, is for a fictious health care provider **HealthClinic.biz**. 
 HealthClinic.biz uses different Microsoft and multi-channel apps built with Visual Studio and Azure to grow their business and modernize their customer experience. 
 They also innovate and offer multiple apps and services—including websites, mobile apps, and wearable apps—to empower their patient’s well-being with easy access to manage their healthcare data and stay healthy.
